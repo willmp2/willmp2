@@ -15,7 +15,6 @@
 - 👯 Experiência em elaboração de dashboards e relatórios que apoiam a tomada de decisão e planejamento estratégico do negócio (Tableau, Power BI, Data Studio), realizando todo o processo de ETL, com os sistemas gerenciadores de banco de dados: SQL, MySQL, PostgreSQL.
 Linguagens de programação (R/Python),
 Análise de dados, árvore de decisão; modelos de regressão linear; Machine Learning.
-Sistemas gerenciadores de banco de dados: SQL, NoSQL, PostgreSQL.
 Experiência com sistemas ERP, como TOTVS Protheus e Oracle NetSuite.
 
 <div>
