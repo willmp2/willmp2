@@ -2,7 +2,7 @@
 
 <div>
   
-<center><img align="center" height="200" width="600" src="https://blog.indicium.tech/content/images/2021/03/Analista-de-dados-precisa-de-ferramentas-blog_conteudo-analista-de-dados_indicium-v1_003.jpg"><center>
+<img align="right" alt="william-pic" height="150" style="border-radius:50px;" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/10/big-data-x-data-analytics-x-data-science-quais-as-diferencas.png">
   
 <div>
   
