@@ -2,7 +2,7 @@
 
 <div>
   
-<img align="center" height="200" width="600" src="https://blog.indicium.tech/content/images/2021/03/Analista-de-dados-precisa-de-ferramentas-blog_conteudo-analista-de-dados_indicium-v1_003.jpg">
+<center><img align="center" height="200" width="600" src="https://blog.indicium.tech/content/images/2021/03/Analista-de-dados-precisa-de-ferramentas-blog_conteudo-analista-de-dados_indicium-v1_003.jpg"><center>
   
 <div>
   
