@@ -1,6 +1,12 @@
 ## Olá, me chamo William, seja bem vindo. 
 
 <div>
+  
+<img height="50em" src="https://drive.google.com/file/d/1lo9VcB0hZIMQA9kju3yioKTzwcWz_nYL/view?usp=sharing">  
+  
+<div>
+  
+<div>
 
 - 🔭 Profissional com formação em Engenharia pelo Grupo Anchieta e estudando Data Science & Machine Learning pela Tera, possuo mais de 4 anos de atuação em empresas nacionais e multinacionais, nas áreas de P&D, processos e dados. 
 - 🌱 Através de minhas formações e experiências profissionais, possuo um perfil analítico, apaixonado por pesquisa, inovação e solução de problemas.
