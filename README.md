@@ -10,12 +10,13 @@
 
   
   
-- 🔭 Profissional com formação em Engenharia pelo Grupo Anchieta e estudando Data Science & Machine Learning pela Tera, possuo mais de 4 anos de atuação em empresas nacionais e multinacionais, nas áreas de P&D, processos e dados. 
-- 🌱 Através de minhas formações e experiências profissionais, possuo um perfil analítico, apaixonado por pesquisa, inovação e solução de problemas.
-- 👯 Experiência em elaboração de dashboards e relatórios que apoiam a tomada de decisão e planejamento estratégico do negócio (Tableau, Power BI, Data Studio), realizando todo o processo de ETL, com os sistemas gerenciadores de banco de dados: SQL, MySQL, PostgreSQL.
-Linguagens de programação (R/Python),
-Análise de dados, árvore de decisão; modelos de regressão linear; Machine Learning.
-Experiência com sistemas ERP, como TOTVS Protheus e Oracle NetSuite.
+Bacharel em Engenharia, cursando Data Science e Machine Learning pela Tera, possuo experiência em gestão de projetos e análise de dados. 
+Com bom racicionio lógico e capacidade de resolução de problemas, busco atuar como Cientista/Analista de Dados.
+Atuei em empresas nacionais e multinacionais, como a Sika S.A presente em 101 países, Kerry presente em 32, nos quais me fizeram desenvolver como profissional responsável,
+com olhar crítico e com foco na qualidade do projeto.
+Atualmente, atuo como Assistente de dados na Marketdata, no qual utilizo tecnologias como: Python, SQL, GIT, Power BI.
+Com inglês avançado e espanhol intermediário. 
+Estudante contínuo da área de tecnologia, me aprofundando em banco de dados não relacionais, machine learning, big data e computação em nuvem. 
 
 <div>
   
