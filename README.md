@@ -8,15 +8,51 @@
 
 <div>
 
-Com formação em Engenharia, possuo perfil analítico e bom relacionamento interpessoal.
-Experiência em coleta e tratativa de dados, gerando soluções e insights para o negócio.
+Olá, me chamo William, sou formado em Engenharia, possuo inglês avançado e apaixonado por resolver problemas e gerar valor através dos dados. 
+Possuo conhecimentos e experiência com Python, SQL, Power BI, Tableau, SSIS, Alteryx e modelos de Machine Learning. 
 
-Manipulação de dados com Python.
-Consultas avançadas com SQL .
-Storytelling e visualização de dados através do Power BI, Metabase, Excel.
-Modelagem Matemática/Estatística.
-Conhecimento em análise descritiva, teste de hipóteses, modelos de regressão, árvore de decisão, análise de cluster, e algoritmos de machine learning.
-Business Intelligence (Modelagem Relacional, Modelagem de Datawarehouse, ETL, Cubos com Analysis Services e relatórios com Reporting Services e Power BI, versionamento de dados, etc.)
+Boa base matemática/estatística.
+  
+Conhecimentos em 
+• Aprendizagem Supervisionada
+•	Aprendizagem Não Supervisionada
+•	Aprendizagem por Reforço
+•	Naive Bayes
+•	Máquina de Vetor de Suporte (SVM)
+•	Regressão Logística
+•	Aprendizagem Baseada em Instâncias (KNN)
+•	Random Forest
+•	Árvore de Decisão
+•	XGBoost
+•	Light GBM
+•	CatBoost no Python
+•	Regressão Linear Simples
+•	Correlação Linear
+•	Regressão Linear Múltipla
+•	Regressão Polinomial
+•	Regressão com vetores de Suporte (SVR)
+•	Regressão com Árvore de decisão
+•	Regressão com Random Forest
+•	Regressão com XGBoost
+•	Regressão com Light GBM
+•	Regressão com CatBoost
+•	Redes Neurais Artificiais
+•	K-means
+•	K-Modes
+•	K-Prototypes
+•	MeanShift
+•	Hierárquico
+•	DBSCAN
+•	APRIORI
+•	ECLAT
+•	Q-Learning
+•	Pré-processamento dos dados
+•	Validação cruzada
+•	Análise dos Componentes Principais (PCA)
+•	Conceitos de Python
+•	Conceitos de Estatística
+
+
 
 <div>
   
