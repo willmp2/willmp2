@@ -13,7 +13,6 @@ Possuo conhecimentos e experiência com Python, SQL, Power BI, Tableau, SSIS, Al
 
 Boa base matemática/estatística.
   
-Conhecimentos em 
 • Aprendizagem Supervisionada
 •	Aprendizagem Não Supervisionada
 •	Aprendizagem por Reforço
