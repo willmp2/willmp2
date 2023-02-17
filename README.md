@@ -8,7 +8,7 @@
 
 <div>
 
-Olá, me chamo William, sou formado em Engenharia, possuo inglês avançado e apaixonado por resolver problemas e gerar valor através dos dados. 
+Olá, me chamo William, sou formado em Engenharia, possuo inglês avançado e sou apaixonado por resolver problemas e gerar valor através dos dados. 
 Possuo conhecimentos e experiência com Python, SQL, Power BI, Tableau, SSIS, Alteryx e modelos de Machine Learning. 
 
 Boa base matemática/estatística.
