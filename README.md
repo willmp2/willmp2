@@ -1,5 +1,5 @@
 <h3 align="center">Olá, seja bem vindo ao meu perfil 👋👋</h1>
-<p align="center">Atuando atualmente como Business Intelligence Analyst na Fresenius Kabi <a href="https://paypal.com/" target="_blank" rel="noreferrer">  <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="paypal" width="20" height="20"/> </a> | Mentor in Programming at Mais1Code <a href="https://mais1code.com.br/" target="_blank" rel="noreferrer">  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHJh3_iePOWbA/company-logo_200_200/0/1634585856591?e=2147483647&v=beta&t=G4oVZvF8T8G494jrG7dR7U3oeVVAyUgxchORGbv05K0" alt="mais1code" width="20" height="20"/> </a> </p>
+<p align="center">Atuando atualmente como Business Intelligence Analyst na Fresenius Kabi <a href="https://paypal.com/" target="_blank" rel="noreferrer">  <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="paypal" width="20" height="20"/> </a>  </p>
 
 <p align="center">
     Connect with me:&nbsp;&nbsp;
