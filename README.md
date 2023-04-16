@@ -1,16 +1,14 @@
-<h3 align="center">Hello! Thank you for checking my GitHub profile! 👋👋</h1>
-<p align="center">Currently working as: Sr. Data Analyst at PayPal <a href="https://paypal.com/" target="_blank" rel="noreferrer">  <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="paypal" width="20" height="20"/> </a> | Mentor in Programming at Mais1Code <a href="https://mais1code.com.br/" target="_blank" rel="noreferrer">  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHJh3_iePOWbA/company-logo_200_200/0/1634585856591?e=2147483647&v=beta&t=G4oVZvF8T8G494jrG7dR7U3oeVVAyUgxchORGbv05K0" alt="mais1code" width="20" height="20"/> </a> </p>
+<h3 align="center">Olá, seja bem vindo ao meu perfil 👋👋</h1>
+<p align="center">Atuando atualmente como Business Intelligence Analyst na Fresenius Kabi <a href="https://paypal.com/" target="_blank" rel="noreferrer">  <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="paypal" width="20" height="20"/> </a> | Mentor in Programming at Mais1Code <a href="https://mais1code.com.br/" target="_blank" rel="noreferrer">  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHJh3_iePOWbA/company-logo_200_200/0/1634585856591?e=2147483647&v=beta&t=G4oVZvF8T8G494jrG7dR7U3oeVVAyUgxchORGbv05K0" alt="mais1code" width="20" height="20"/> </a> </p>
 
 <p align="center">
     Connect with me:&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/victor-moraes-ribeiro/" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20" height="20"/> </a> &nbsp;
-    <a href="mailto: vm.ribeiro@outlook.com" target="_blank" rel="noreferrer">  <img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" alt="e-mail" width="20" height="20"/> </a>
+    <a href="https://www.linkedin.com/in/willhsantos/" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20" height="20"/> </a> &nbsp;
+    <a href="mailto: willmp2@outlook.com" target="_blank" rel="noreferrer">  <img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" alt="e-mail" width="20" height="20"/> </a>
 </p>
 <br>
 
-<p>I’m Victor Ribeiro, and as a data analyst, teacher and programmer, I help companies and teach people to improve their lives and business using tech in an innovative data-driven and collaborative environment, through Analytics, Business Intelligence, and Data Science, with a pinch of storytelling and some nice presentations.</p>
-<p>Even after my 5 years of experience and an MBA, I keep learning every day, and I still believe that the best way to improve a business is first teaching and capacitating people, and I can absolutely say that sharing knowledge is my passion. I also find it of the utmost importance to be curious and constantly search about new topics, in or out the area you act, being a self-learner. </p>
-<p>Something I believe that is completely necessary for data roles (soft skill), is to be as closer as possible to your stakeholders, developing a healthy feedback culture. Listening (A LOT), adapting the solutions and innovating in a cyclic process is the key to have success in this area. </p>
+<p>Sou um profissional formado em engenharia, que busca gerar valor ao negócio através dos dados, com experiência e conhecimentos em Analytics, Business Intelligence e Data Science.  </p>
 <br>
 <p>Some of my hard skills and the tools I’m used to work with: </p>
     <ul>• Data Analytics </ul>
