@@ -1,5 +1,5 @@
 <h3 align="center">Olá, seja bem vindo ao meu perfil 👋👋</h1>
-<p align="center">Atuando atualmente como Business Intelligence Analyst na Fresenius Kabi <a href="https://paypal.com/" target="_blank" rel="noreferrer">  <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" alt="paypal" width="20" height="20"/> </a>  </p>
+<p align="center">Atuando atualmente como Business Intelligence Analyst na Fresenius Kabi <a href="https://www.fresenius-kabi.com/br/" target="_blank" rel="noreferrer">  <img src="https://www.fresenius-kabi.com/br/images/fresenius-kabi-logo-ie-xl.png" alt="Fresenius Kabi" width="20" height="20"/> </a>  </p>
 
 <p align="center">
     Connect with me:&nbsp;&nbsp;
