@@ -22,10 +22,9 @@
 <br>
 <p>Algumas das habilidades comportamentais que desenvolvi e continuo melhorando são:
 <ul>• Storytelling </ul>
-<ul>• Gerenciamento de stakeholders </ul>
+<ul>• Pensamento analítico </ul>
 <ul>• Gerenciamento de projetos </ul>
 <ul>• Inovação e brainstorming </ul>
-<ul>• Elaboração de relatórios e escrita empresarial </ul>
 <br>
 
 <h4 align="left">All languages and tools I already studied:</h4>
