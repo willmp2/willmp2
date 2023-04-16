@@ -21,10 +21,10 @@
  
 <br>
 <p>Algumas das habilidades comportamentais que desenvolvi e continuo melhorando são:
-<ul>• Storytelling </ul>
-<ul>• Pensamento analítico </ul>
-<ul>• Gerenciamento de projetos </ul>
-<ul>• Inovação e brainstorming </ul>
+<ul>• Storytelling. </ul>
+<ul>• Pensamento analítico. </ul>
+<ul>• Gerenciamento de projetos. </ul>
+<ul>• Inovação e brainstorming. </ul>
 <br>
 
 <h4 align="left">All languages and tools I already studied:</h4>
