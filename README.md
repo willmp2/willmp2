@@ -11,21 +11,21 @@
 <p>Sou um profissional formado em engenharia, que busca gerar valor ao negócio através dos dados, com experiência e conhecimentos em Analytics, Business Intelligence e Data Science.  </p>
 <br>
 <p>Algumas das minhas habilidades técnicas e ferramentas que estou acostumado a trabalhar são: </p>
-    <ul>• Análise de dados utilizando SQL e Python </ul>
-    <ul>• Projetos de BI utilizando ferramentas para visualização de dados como Power BI e Tableau </ul>
-    <ul>• Construção, manutenção e otimização de banco de dados </ul>
+    <ul>• Análise de dados utilizando SQL e Python. </ul>
+    <ul>• Projetos de BI utilizando ferramentas para visualização de dados como Power BI e Tableau. </ul>
+    <ul>• Construção, manutenção e otimização de banco de dados. </ul>
     <ul>• Estatística probabilística (probabilidade, Poisson, teste de normalidade) e inferencial (intervalo de confiança, testes de hipóteses),etc. </ul>
     <ul>• Conhecimentos de bibliotecas no Python, como: Pandas, Numpy, Scipy, StatsModel, Scikit Learning e modelos de Machine Learning como Regressão Linear, Regressão Logística, Árvore de decisão, XGBoost, KNN e Naive Bayes.  </ul>
-    <ul>• ETL e Data Crawlers </ul>
-    <ul>• Aplicações em Streaming </ul>
+    <ul>• ETL e Data Crawlers. </ul>
+    <ul>• Aplicações em Streaming. </ul>
  
 <br>
-<p>Some of the soft skills I developed and that I keep improving:  </p>
-    <ul>• Storytelling </ul>
-    <ul>• Stakeholder management </ul>
-    <ul>• Project management </ul>
-    <ul>• Innovation and brainstorming </ul>
-    <ul>• Reporting and business writing </ul> 
+<p>Algumas das habilidades comportamentais que desenvolvi e continuo melhorando são:
+<ul>• Storytelling </ul>
+<ul>• Gerenciamento de stakeholders </ul>
+<ul>• Gerenciamento de projetos </ul>
+<ul>• Inovação e brainstorming </ul>
+<ul>• Elaboração de relatórios e escrita empresarial </ul>
 <br>
 
 <h4 align="left">All languages and tools I already studied:</h4>
