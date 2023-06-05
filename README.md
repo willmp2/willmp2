@@ -3,7 +3,7 @@
 
 <p align="center">
     Connect with me:&nbsp;&nbsp;
-    <a href="https:[https://www.linkedin.com/in/willhsantos/](https://www.linkedin.com/in/willhsantos/)" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20" height="20"/> </a> &nbsp;
+    <a href="https:[https://www.linkedin.com/in/willhsantos/]" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20" height="20"/> </a> &nbsp;
     <a href="mailto: willmp2@outlook.com" target="_blank" rel="noreferrer">  <img src="https://logospng.org/download/microsoft-outlook/logo-microsoft-outlook-1024.png" alt="e-mail" width="20" height="20"/> </a>
 </p>
 <br>
