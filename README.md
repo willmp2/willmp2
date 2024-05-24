@@ -8,7 +8,8 @@
 </p>
 <br>
 
-<p>Profissional formado em engenharia, com experiência na atuação com dados. Experiências em projetos de BI, desde a coleta até entrega do relatório/dashboard, análise dos dados utilizando métodos estatísticos e construção/manutenção de modelos de machine learning.</p>
+<p>Sou um profissional com mais de 3 anos de experiência atuando com dados, entendendo as necessidades do negócio e traduzindo em requisitos técnicos para construção de soluções de dados.
+Minhas experiências abrangem elaboração de análises, promovendo a tomada de decisões mais assertivas, construção de pipeline de dados e processos de ETL, desenvolvimento e manutenção de dashboards, análises estatísticas, aplicação de modelos de segmentação, automatização de processos operacionais, testes A/B e gestão de projetos de Business Intelligence.</p>
 
 <br>
 <p>Resumo das atuações: </p>
@@ -17,7 +18,8 @@
     <ul>• Banco de dados </ul>
     <ul>• ETL </ul>
     <ul>• Linguagens : Python, SQL, DAX </ul>
-    <ul>• BI Tools: Power BI, Tableau, Quicksight, Looker, Periscope (Sisense) </ul>
+    <ul>• BI Tools: Power BI, Tableau, Quicksight, Looker, Periscope (Sisense) 
+    <ul>• Cloud: AWS (Amazon Web Services): Athena, Glue, Redshift, S3    </ul>
  
 <br>
 <p>Soft skills: </p>
