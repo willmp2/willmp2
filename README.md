@@ -1,5 +1,5 @@
 <h3 align="center">Olá, seja bem vindo ao meu perfil! 👋👋</h1>
-<p align="center">Atualmente trabalhando como Business Intelligence Analyst na Fresenius Kabi <a href="https://www.fresenius-kabi.com/br/images/fresenius-kabi-logo.png" alt="Fresenius Kabi" width="20" height="20"/> </a> 
+<p align="center">Analista de dados | Business Intelligence | Analytics Engineering | <a href="https://www.fresenius-kabi.com/br/images/fresenius-kabi-logo.png" alt="Fresenius Kabi" width="20" height="20"/> </a> 
 
 <p align="center">
     Connect with me:&nbsp;&nbsp;
